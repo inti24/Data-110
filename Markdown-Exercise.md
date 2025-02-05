@@ -14,4 +14,7 @@ Jovani Aguirre-Ramos
 2. Maracuyá
 3. Horchata
 
-###
+### Favorite Past Times
+- Weight lifting
+- Playing Video Games
+- 
