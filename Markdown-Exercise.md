@@ -31,3 +31,28 @@ Date: 02/05/2025
 >>"Give yourself a gift: the present moment."
 >
 >Marcus Aurelius
+
+## Inline code and code blocks
+
+`I am enrolled at Montgomery College`
+
+`I like to listen to music`
+
+```
+I cook every day!
+
+I try to go to the gym every day
+
+```
+## Hobbies
+|Cooking|working out|Playing games|
+|---|---|---|
+|Can be easy, can be hard, all depends on the recipe that you follow|Very therapeutic| Can be calming, Can be agrevating|
+
+
+## Task list
+
+- [x] Beat Elden Ring
+- [] Finish my degree
+- [] Go to the gym every day
+
