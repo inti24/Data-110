@@ -5,8 +5,9 @@ Jovani Aguirre-Ramos
 Date: 02/05/2025
 
 ## Bold and Italic Text
-**I like to cook 
-* I like to read
+**I like to cook**
+
+*I like to read*
 
 ## Favorites
 ### Favorite Drinks
@@ -53,8 +54,8 @@ I try to go to the gym every day
 ## Task list
 
 - [x] Beat Elden Ring
-- [] Finish my degree
-- [] Go to the gym every day
+- [ ] Finish my degree
+- [ ] Go to the gym every day
 
 ### Footnote.[^1]
 
