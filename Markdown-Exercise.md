@@ -56,3 +56,6 @@ I try to go to the gym every day
 - [] Finish my degree
 - [] Go to the gym every day
 
+### Footnote.[^1]
+
+[^1]: I am excited to finish my degree!
